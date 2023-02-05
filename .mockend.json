@@ -3,7 +3,9 @@
     "_": {
       "items": 0
     },
-    "id": {},
+    "userId": {
+      "string": {}
+    },
     "username": {
       "string": {}
     },
