@@ -2,7 +2,9 @@
   "User": {
     "_": {
       "items": 1
-    }
+    },
+    "name": {
+  }
     
   },
   "Comment": {
