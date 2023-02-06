@@ -4,7 +4,7 @@
       "items": 0
     },
     "userId": {
-      "string": {}
+      "int": {}
     },
     "username": {
       "string": {}
